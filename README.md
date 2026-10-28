@@ -41,16 +41,11 @@ A modular Python command-line application with calculator, notes, timer, file or
 
 **Python · pytest**
 
-### [Bookstore Management API](https://github.com/ayushkr063/bookstore_management)
-A Java and Spring Boot REST API project using MongoDB, JWT authentication, and role-based access.
-
-**Java · Spring Boot · MongoDB**
-
 ## Technologies
 
 - **Languages:** Java, Python, C (foundational)
-- **Frameworks:** Spring Boot, Flask
-- **Databases:** MySQL, MongoDB
+- **Frameworks:** Flask
+- **Databases:** MySQL
 - **Tools:** Git, GitHub, VS Code, Maven, pytest, JUnit
 - **Concepts:** Object-oriented programming, debugging, input validation, problem solving
 
