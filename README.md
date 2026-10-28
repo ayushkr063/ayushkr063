@@ -1,80 +1,70 @@
 <div align="center">
 
-# AYUSH KUMAR SETH
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,100:7C3AED&height=190&section=header&text=AYUSH%20KUMAR%20SETH&fontSize=40&fontColor=F8FAFC&animation=twinkling&fontAlignY=35&desc=Java%20Developer%20%7C%20CSE%20Undergraduate&descAlignY=58&descSize=16" alt="Neon cyan and violet banner: Ayush Kumar Seth, Java Developer and CSE Undergraduate" />
 
-### SOFTWARE DEVELOPER · BACKEND & FULL-STACK ENGINEERING
+# Ayush Kumar Seth
 
-**Designing useful software. Building reliable systems. Learning in public.**
+### Java Developer · Computer Science Undergraduate
 
-[![GitHub](https://img.shields.io/badge/GitHub-ayushkr063-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayushkr063)
-[![Java](https://img.shields.io/badge/Java-21-0A192F?style=for-the-badge&logo=openjdk&logoColor=00D1FF)](https://openjdk.org/)
-[![Python](https://img.shields.io/badge/Python-3.x-0A192F?style=for-the-badge&logo=python&logoColor=00D1FF)](https://www.python.org/)
+[![GitHub](https://img.shields.io/badge/GitHub-ayushkr063-111827?style=for-the-badge&logo=github&logoColor=00E5FF)](https://github.com/ayushkr063)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-111827?style=for-the-badge&logo=linkedin&logoColor=00E5FF)](https://www.linkedin.com/in/ayush-kumar-seth)
 
 </div>
 
 ---
 
-## SYSTEM PROFILE
+## About
 
-```text
-Name       : Ayush Kumar Seth
-Focus      : Backend engineering · Full-stack applications · API design
-Languages  : Java · Python · SQL · JavaScript
-Currently  : Building practical applications and strengthening software fundamentals
-```
+I’m a Computer Science and Engineering undergraduate at **Sandip University, Nashik** (B.Tech, 2024–2028). I enjoy building practical applications and growing as a Java developer, with additional project work in Python and web technologies.
 
-I build applications with an emphasis on clear structure, dependable behavior, and practical functionality. My projects include a secured bookstore REST API, Flask and MySQL web applications, and a modular Python productivity suite.
+I completed a **four-week virtual Java Development internship with CodSoft in September 2026**, where I built small Java applications and practiced object-oriented programming, input validation, exception handling, and Swing GUI development.
 
-## SELECTED BUILDS
+## Featured projects
 
-### [Bookstore Management REST API](https://github.com/ayushkr063/bookstore_management)
-A Java backend for book catalog and order workflows.
+### [Timed Quiz Application](https://github.com/ayushkr063/CODSOFT_TASKS/tree/main/Task4_Quiz_Application)
+A Java Swing quiz with a countdown timer, score summary, and answer review.
 
-- Java 21 · Spring Boot · Spring Security · JWT
-- MongoDB · Spring Data · Maven
-- Role-based access, paginated catalog search, and order workflows
-- OpenAPI / Swagger documentation
+**Java · Swing · JUnit**
+
+### [ATM Interface](https://github.com/ayushkr063/CODSOFT_TASKS/tree/main/Task3_ATM_Interface)
+A Java learning project with graphical and terminal interfaces for basic account operations.
+
+**Java · Swing**
+
+### [Number Guessing Game](https://github.com/ayushkr063/CODSOFT_TASKS/tree/main/Task1_Number_Guess_Game)
+A small Java console game built as an internship assignment.
+
+**Java**
 
 ### [Personal Productivity Suite](https://github.com/ayushkr063/personal_productivity_suite)
-A modular, terminal-native collection of everyday productivity tools.
+A modular Python command-line application with calculator, notes, timer, file organization, unit conversion, and backup tools.
 
-- Python standard library · JSON · CSV
-- Calculator with a restricted AST expression parser
-- Notes, timer, file organizer, unit converter, and backup tools
-- Atomic file writes and automated tests
+**Python · pytest**
 
-### [Hospital Management](https://github.com/ayushkr063/hospital-management)
-A Flask and MySQL application for hospital patient workflows.
+### [Bookstore Management API](https://github.com/ayushkr063/bookstore_management)
+A Java and Spring Boot REST API project using MongoDB, JWT authentication, and role-based access.
 
-- Python · Flask · MySQL · HTML · CSS · JavaScript
-- Patient records, dashboard metrics, search, and status filters
+**Java · Spring Boot · MongoDB**
 
-### [Student Study Planner](https://github.com/ayushkr063/-study-planner)
-A full-stack study planner for organizing subjects and tasks.
+## Technologies
 
-- Python · Flask · MySQL · HTML · CSS · JavaScript
-- Accounts, task tracking, progress dashboard, search, and filters
+- **Languages:** Java, Python, C (foundational)
+- **Frameworks:** Spring Boot, Flask
+- **Databases:** MySQL, MongoDB
+- **Tools:** Git, GitHub, VS Code, Maven, pytest, JUnit
+- **Concepts:** Object-oriented programming, debugging, input validation, problem solving
 
-## ENGINEERING TOOLKIT
+## Learning and interests
 
-**Backend:** Java, Spring Boot, Python, Flask, REST APIs  
-**Data:** MongoDB, MySQL, SQL, JSON  
-**Frontend:** HTML, CSS, JavaScript  
-**Workflow:** Git, Maven, pytest, OpenAPI / Swagger
+I’m currently strengthening my data structures, problem-solving, and software testing foundations. I’m also interested in Java full-stack development, MERN, databases, and practical AI/ML applications.
 
-## CURRENT DIRECTION
+## Connect
 
-- Improving backend architecture and API design
-- Building secure, maintainable application features
-- Practicing testing, validation, and resilient data handling
-
-## CONNECT
-
-- GitHub: [@ayushkr063](https://github.com/ayushkr063)
-- Explore my [repositories](https://github.com/ayushkr063?tab=repositories)
+- [GitHub](https://github.com/ayushkr063)
+- [LinkedIn](https://www.linkedin.com/in/ayush-kumar-seth)
 
 <div align="center">
 
-**BUILD · TEST · IMPROVE**
+**BUILD · LEARN · ITERATE**
 
 </div>
