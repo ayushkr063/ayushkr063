@@ -75,7 +75,7 @@ Strengthening data structures and problem-solving fundamentals while building an
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ayushkr063/ayushkr063/output/contribution-activity-java.svg" width="100%" alt="GitHub activity summary with contribution streaks and weekly contribution graph" />
+<img src="https://raw.githubusercontent.com/ayushkr063/ayushkr063/output/contribution-activity-java-v2.svg" width="100%" alt="GitHub activity summary with contribution streaks and weekly contribution graph" />
 
 </div>
 
