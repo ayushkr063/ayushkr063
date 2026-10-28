@@ -1,69 +1,64 @@
 <div align="center">
 
-<img src="./assets/header.svg" width="100%" alt="Navy and cyan robotics interface banner for Ayush Kumar Seth, a Computer Science student learning Java and software development" />
+<img src="./assets/header.svg" width="100%" alt="Futuristic navy and cyan robotics banner for Ayush Kumar Seth, third-year Computer Science student and Java developer" />
 
 [![GitHub](https://img.shields.io/badge/GitHub-ayushkr063-43D8FF?style=for-the-badge&labelColor=101E30&logo=github&logoColor=43D8FF)](https://github.com/ayushkr063)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-43D8FF?style=for-the-badge&labelColor=101E30&logo=linkedin&logoColor=43D8FF)](https://www.linkedin.com/in/ayush-kumar-seth)
 
-**SOFTWARE DEVELOPMENT · JAVA · COMPUTER SCIENCE**
-
-[Profile](#profile) &nbsp; / &nbsp; [Projects](#projects) &nbsp; / &nbsp; [Technology](#technology) &nbsp; / &nbsp; [Experience](#experience) &nbsp; / &nbsp; [Education](#education)
+[About](#about) &nbsp; / &nbsp; [Projects](#featured-project) &nbsp; / &nbsp; [Skills](#technical-toolkit) &nbsp; / &nbsp; [Experience](#experience) &nbsp; / &nbsp; [Education](#education)
 
 </div>
 
-## Profile
+## About
 
-Computer Science and Engineering undergraduate at **Sandip University, Nashik**. I’m developing my software engineering foundations through hands-on Java and Python projects, with an interest in building useful, well-structured applications.
+I’m a **third-year Computer Science and Engineering student at Sandip University, Nashik**, with hands-on experience building Java applications. I enjoy turning practical requirements into clear, usable software and strengthening my engineering fundamentals through projects.
 
-I’m currently strengthening my Java, object-oriented programming, data structures, and debugging skills. I’m open to learning opportunities where I can contribute, take feedback, and grow through practical engineering work.
+My work has included Java desktop applications and Python command-line tools. I have applied object-oriented programming, input validation, exception handling, and debugging in project work.
 
-> **Current development focus**
-> - Java fundamentals and object-oriented programming
-> - Data structures and problem-solving practice
-> - Input validation, debugging, and exception handling
-> - Building and improving practical applications
-
-## Projects
+## Featured project
 
 ### Personal Productivity Suite
 
-A modular Python command-line application with a calculator, notes manager, timer and stopwatch, file organizer, unit converter, and backup tools.
+A modular Python command-line application that brings together a calculator, notes manager, timer and stopwatch, file organizer, unit converter, and backup tools.
 
-[**Explore the repository →**](https://github.com/ayushkr063/personal_productivity_suite)  
+[**View the source code →**](https://github.com/ayushkr063/personal_productivity_suite)
+
 `Python` `pytest` `JSON` `CSV`
 
-## Technology
+## Technical toolkit
 
-| Category | Tools and technologies |
+| Area | Technologies and concepts |
 | :--- | :--- |
-| **Languages** | Java · Python · C (foundational) |
-| **Development** | Java Swing · Python CLI |
-| **Database** | MySQL |
+| **Programming** | Java · Python · C (foundational) |
+| **Java development** | Java Swing · Object-oriented programming · Exception handling |
+| **Data and storage** | MySQL · JSON · CSV |
 | **Tools** | Git · GitHub · VS Code |
 | **Testing** | JUnit · pytest |
-| **Practices** | Object-oriented programming · Input validation · Debugging |
+| **Engineering practices** | Input validation · Debugging |
 
 ## Experience
 
 **Java Development Intern (Virtual) · CodSoft**  
 *September 2026 · Four-week internship*
 
-- Developed a number-guessing game, ATM interface, and timed quiz application using Java and Java Swing.
-- Practiced object-oriented programming, input validation, exception handling, and GUI development.
+- Built a number-guessing game, an ATM interface, and a timed quiz application using Java and Java Swing.
+- Applied object-oriented programming, input validation, exception handling, and GUI development.
 
 ## Education
 
 **B.Tech in Computer Science and Engineering**  
 Sandip University, Nashik · 2024–2028
 
-## Learning next
+## Technical interests
 
-I’m working on stronger data structures and problem-solving fundamentals. I’m also interested in Java full-stack development, databases, MERN, Python, and practical AI/ML applications.
+Java full-stack development · MERN stack · Databases · Practical AI/ML
 
----
+## Connect
+
+[GitHub](https://github.com/ayushkr063) &nbsp; · &nbsp; [LinkedIn](https://www.linkedin.com/in/ayush-kumar-seth)
 
 <div align="center">
 
-[GitHub profile](https://github.com/ayushkr063) &nbsp; · &nbsp; [Connect on LinkedIn](https://www.linkedin.com/in/ayush-kumar-seth)
+*Building practical software, one project at a time.*
 
 </div>
