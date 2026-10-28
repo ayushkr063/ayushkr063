@@ -112,7 +112,6 @@ const svg = [
   '<text x="542" y="118" fill="#E8F3FF" font-family="Arial, sans-serif" font-size="25" font-weight="700">6</text>',
   '<text x="792" y="82" fill="#9BB0C7" font-family="Arial, sans-serif" font-size="11" letter-spacing=".7">LANGUAGE FOCUS</text>',
   '<text x="792" y="113" fill="#E8F3FF" font-family="Arial, sans-serif" font-size="15" font-weight="600">Java · Python · C</text>',
-  '<text x="792" y="130" fill="#9BB0C7" font-family="Arial, sans-serif" font-size="10">C · foundational</text>',
   '<rect x="20" y="158" width="1080" height="234" rx="14" fill="#111B2B" stroke="#30445D"/>',
   '<text x="42" y="188" fill="#E8F3FF" font-family="Arial, sans-serif" font-size="15" font-weight="600">Contribution activity</text>',
   '<text x="1078" y="188" text-anchor="end" fill="#9BB0C7" font-family="Arial, sans-serif" font-size="11">LAST 12 MONTHS · WEEKLY</text>',
@@ -127,4 +126,4 @@ const svg = [
   '</svg>',
 ].join("");
 
-await import("node:fs/promises").then(({ mkdir, writeFile }) => mkdir("dist", { recursive: true }).then(() => writeFile("dist/contribution-activity.svg", svg)));
+await import("node:fs/promises").then(({ mkdir, writeFile }) => mkdir("dist", { recursive: true }).then(() => writeFile("dist/contribution-activity-java.svg", svg)));
