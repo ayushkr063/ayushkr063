@@ -1,62 +1,83 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,100:7C3AED&height=190&section=header&text=AYUSH%20KUMAR%20SETH&fontSize=40&fontColor=F8FAFC&animation=twinkling&fontAlignY=35&desc=Java%20Developer%20%7C%20CSE%20Undergraduate&descAlignY=58&descSize=16" alt="Neon cyan and violet banner: Ayush Kumar Seth, Java Developer and CSE Undergraduate" />
+<img src="./assets/header.svg" width="100%" alt="Neon cyan and violet developer profile banner for Ayush Kumar Seth" />
 
-# Ayush Kumar Seth
+[![GitHub](https://img.shields.io/badge/GitHub-ayushkr063-39FF88?style=for-the-badge&labelColor=111B14&logo=github&logoColor=39FF88)](https://github.com/ayushkr063)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-39FF88?style=for-the-badge&labelColor=111B14&logo=linkedin&logoColor=39FF88)](https://www.linkedin.com/in/ayush-kumar-seth)
 
-### Java Developer · Computer Science Undergraduate
+**Java Developer · CSE Undergraduate · Practical Software Projects**
 
-[![GitHub](https://img.shields.io/badge/GitHub-ayushkr063-111827?style=for-the-badge&logo=github&logoColor=00E5FF)](https://github.com/ayushkr063)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-111827?style=for-the-badge&logo=linkedin&logoColor=00E5FF)](https://www.linkedin.com/in/ayush-kumar-seth)
+[About](#about) &nbsp; / &nbsp; [Projects](#selected-projects) &nbsp; / &nbsp; [Stack](#technology-stack) &nbsp; / &nbsp; [Experience](#experience) &nbsp; / &nbsp; [Education](#education)
 
 </div>
 
----
-
 ## About
 
-I’m a Computer Science and Engineering undergraduate at **Sandip University, Nashik** (B.Tech, 2024–2028). I enjoy building practical applications and growing as a Java developer, with additional project work in Python and web technologies.
+I’m a Computer Science and Engineering undergraduate at **Sandip University, Nashik**, building practical software and strengthening my Java development foundations. I also work with Python and enjoy learning through focused projects.
 
-I completed a **four-week virtual Java Development internship with CodSoft in September 2026**, where I built small Java applications and practiced object-oriented programming, input validation, exception handling, and Swing GUI development.
+```text
+$ cat current-focus.txt
+  Java and object-oriented programming
+  Data structures and problem-solving practice
+  Input validation, debugging, and exception handling
+  Building useful applications with clear documentation
+```
 
-## Featured projects
+## Selected projects
 
-### [Timed Quiz Application](https://github.com/ayushkr063/CODSOFT_TASKS/tree/main/Task4_Quiz_Application)
-A Java Swing quiz with a countdown timer, score summary, and answer review.
+### 01 / Timed Quiz Application
 
-**Java · Swing · JUnit**
+A Java Swing quiz with a countdown timer, score summary, and answer review. Built as a CodSoft Java internship task.
 
-### [ATM Interface](https://github.com/ayushkr063/CODSOFT_TASKS/tree/main/Task3_ATM_Interface)
-A Java learning project with graphical and terminal interfaces for basic account operations.
+[Open project](https://github.com/ayushkr063/CODSOFT_TASKS/tree/main/Task4_Quiz_Application) · `Java` `Swing` `JUnit`
 
-**Java · Swing**
+### 02 / ATM Interface
 
-### [Number Guessing Game](https://github.com/ayushkr063/CODSOFT_TASKS/tree/main/Task1_Number_Guess_Game)
-A small Java console game built as an internship assignment.
+A Java learning project with graphical and terminal interfaces for basic account operations. Built as a CodSoft Java internship task.
 
-**Java**
+[Open project](https://github.com/ayushkr063/CODSOFT_TASKS/tree/main/Task3_ATM_Interface) · `Java` `Swing`
 
-### [Personal Productivity Suite](https://github.com/ayushkr063/personal_productivity_suite)
-A modular Python command-line application with calculator, notes, timer, file organization, unit conversion, and backup tools.
+### 03 / Number Guessing Game
 
-**Python · pytest**
+A small Java console game developed as an internship assignment.
 
-## Technologies
+[Open project](https://github.com/ayushkr063/CODSOFT_TASKS/tree/main/Task1_Number_Guess_Game) · `Java`
 
-- **Languages:** Java, Python, C (foundational)
-- **Frameworks:** Flask
-- **Databases:** MySQL
-- **Tools:** Git, GitHub, VS Code, Maven, pytest, JUnit
-- **Concepts:** Object-oriented programming, debugging, input validation, problem solving
+### 04 / Personal Productivity Suite
+
+A modular Python CLI with calculator, notes, timer, file organizer, unit converter, and backup tools.
+
+[Open project](https://github.com/ayushkr063/personal_productivity_suite) · `Python` `pytest`
+
+## Technology stack
+
+| Area | Technologies |
+| :--- | :--- |
+| **Languages** | Java · Python · C (foundational) |
+| **Application development** | Java Swing · Flask |
+| **Databases** | MySQL |
+| **Tools** | Git · GitHub · VS Code · Maven |
+| **Testing** | JUnit · pytest |
+| **Practices** | Object-oriented programming · Input validation · Debugging |
+
+## Experience
+
+**CodSoft — Java Development Intern (Virtual)**  
+*September 2026 · Four-week internship*
+
+- Built a number-guessing game, an ATM interface, and a timed quiz application using Java.
+- Practiced object-oriented programming, input validation, exception handling, and Swing GUI development.
+
+[Internship projects on GitHub](https://github.com/ayushkr063/CODSOFT_TASKS)
+
+## Education
+
+**Bachelor of Technology in Computer Science and Engineering**  
+Sandip University, Nashik · 2024–2028
 
 ## Learning and interests
 
-I’m currently strengthening my data structures, problem-solving, and software testing foundations. I’m also interested in Java full-stack development, MERN, databases, and practical AI/ML applications.
-
-## Connect
-
-- [GitHub](https://github.com/ayushkr063)
-- [LinkedIn](https://www.linkedin.com/in/ayush-kumar-seth)
+Currently strengthening data structures and problem-solving. Interested in Java full-stack development, Python, databases, MERN, and practical AI/ML applications.
 
 <div align="center">
 
