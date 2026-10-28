@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/robotics-lab-banner.jpg" width="100%" alt="Photorealistic dark robotics laboratory with a cyan-lit robotic arm" />
+<img src="./assets/header.svg" width="100%" alt="Navy and cyan robotics interface banner for Ayush Kumar Seth, a Computer Science student learning Java and software development" />
 
 [![GitHub](https://img.shields.io/badge/GitHub-ayushkr063-43D8FF?style=for-the-badge&labelColor=101E30&logo=github&logoColor=43D8FF)](https://github.com/ayushkr063)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-43D8FF?style=for-the-badge&labelColor=101E30&logo=linkedin&logoColor=43D8FF)](https://www.linkedin.com/in/ayush-kumar-seth)
