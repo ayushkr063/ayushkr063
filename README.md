@@ -79,6 +79,14 @@ I’m focused on becoming a stronger software developer by deepening my programm
 
 </div>
 
+## Contribution activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushkr063&bg_color=0D1117&color=43D8FF&line=43D8FF&point=FFFFFF&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph with cyan area effect" />
+
+</div>
+
 ---
 
 <div align="center">
