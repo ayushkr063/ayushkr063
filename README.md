@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/header.svg" width="100%" alt="Ayush Kumar Seth — computer science student and developer" />
+<img src="./assets/header-profile.svg" width="100%" alt="Ayush Kumar Seth — computer science student and developer" />
 
 <br />
 
