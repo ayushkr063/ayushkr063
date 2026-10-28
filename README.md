@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="./assets/header.svg" width="100%" alt="Dark terminal-green neon banner for Ayush Kumar Seth, Java developer and CSE undergraduate" />
+<img src="./assets/header.svg" width="100%" alt="Navy and cyan robotics-inspired banner for Ayush Kumar Seth, a Computer Science student focused on Java development and software projects" />
 
-[![GitHub](https://img.shields.io/badge/GitHub-ayushkr063-39FF88?style=for-the-badge&labelColor=111B14&logo=github&logoColor=39FF88)](https://github.com/ayushkr063)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-39FF88?style=for-the-badge&labelColor=111B14&logo=linkedin&logoColor=39FF88)](https://www.linkedin.com/in/ayush-kumar-seth)
+[![GitHub](https://img.shields.io/badge/GitHub-ayushkr063-43D8FF?style=for-the-badge&labelColor=101E30&logo=github&logoColor=43D8FF)](https://github.com/ayushkr063)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-43D8FF?style=for-the-badge&labelColor=101E30&logo=linkedin&logoColor=43D8FF)](https://www.linkedin.com/in/ayush-kumar-seth)
 
-**Java Developer · CSE Undergraduate · Practical Software Projects**
+**Computer Science Student · Java Development · Practical Software Projects**
 
 [About](#about-me) &nbsp; / &nbsp; [Projects](#selected-projects) &nbsp; / &nbsp; [Stack](#technology-stack) &nbsp; / &nbsp; [Experience](#experience) &nbsp; / &nbsp; [Education](#education) &nbsp; / &nbsp; [Activity](#github-activity)
 
