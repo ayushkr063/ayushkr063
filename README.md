@@ -83,7 +83,7 @@ I’m focused on becoming a stronger software developer by deepening my programm
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushkr063&bg_color=0D1117&color=43D8FF&line=43D8FF&point=FFFFFF&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph with cyan area effect" />
+<img src="https://raw.githubusercontent.com/ayushkr063/ayushkr063/output/github-contribution-grid-snake.svg" width="100%" alt="Animated cyan snake moving through Ayush's GitHub contribution calendar" />
 
 </div>
 
