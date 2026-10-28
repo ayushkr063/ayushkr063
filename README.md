@@ -17,7 +17,7 @@
 
 ## About
 
-Hey, I’m **Ayush Kumar Seth**, a Computer Science and Engineering student at **Sandip University** (2024–2028). I enjoy turning ideas into useful applications and learning how software systems fit together.
+Hey, I’m **Ayush Kumar Seth**, a Computer Science and Engineering student. I enjoy turning ideas into useful applications and learning how software systems fit together.
 
 My projects span Java applications, Python tools, and web apps backed by relational and document databases. I’m strengthening my foundations in data structures, problem solving, and software development, with a focus on writing clear, dependable code.
 
@@ -64,7 +64,7 @@ Git · GitHub · VS Code · Object-oriented programming · Input validation · E
 - Practiced object-oriented design, input validation, exception handling, and GUI development.
 
 ### B.Tech · Computer Science and Engineering
-**Sandip University** · 2024–2028
+
 
 ## What I’m working toward
 
