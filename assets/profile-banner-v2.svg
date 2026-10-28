@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="title desc">
+  <title id="title">Ayush Kumar Seth — Computer Science student</title>
+  <desc id="desc">Minimal dark futuristic profile banner with a subtle technical grid, cyan and violet accents, and an abstract monogram.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#080E19"/><stop offset="1" stop-color="#111B2B"/></linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#42D9FF"/><stop offset="1" stop-color="#9C8CFF"/></linearGradient>
+    <radialGradient id="halo"><stop stop-color="#42D9FF" stop-opacity=".14"/><stop offset="1" stop-color="#42D9FF" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#7BA0C2" stroke-opacity=".07" stroke-width="1"/></pattern>
+  </defs>
+  <rect width="1280" height="360" rx="22" fill="url(#background)"/>
+  <rect width="1280" height="360" rx="22" fill="url(#grid)"/>
+  <ellipse cx="1020" cy="170" rx="330" ry="270" fill="url(#halo)"/>
+  <rect x="1" y="1" width="1278" height="358" rx="21" fill="none" stroke="#30445D"/>
+  <g font-family="Consolas, 'Courier New', monospace">
+    <circle cx="38" cy="34" r="4" fill="#42D9FF"/><circle cx="54" cy="34" r="4" fill="#9C8CFF"/><circle cx="70" cy="34" r="4" fill="#52657A"/>
+    <text x="94" y="39" font-size="12" fill="#8FA6BF" letter-spacing="2">AYUSH / PROFILE</text>
+    <text x="1224" y="40" text-anchor="end" font-size="14" fill="#42D9FF">&lt;/&gt;</text>
+  </g>
+  <path d="M32 58H1248" stroke="#30445D"/>
+  <g font-family="Inter, Segoe UI, Arial, sans-serif">
+    <text x="64" y="145" font-size="49" font-weight="700" fill="#F1F6FC" letter-spacing="-1.5">Ayush Kumar Seth</text>
+    <text x="66" y="190" font-size="21" font-weight="500" fill="#BDCAD9">Computer Science student <tspan fill="#536B84">/</tspan> Java &amp; Python</text>
+  </g>
+  <rect x="66" y="221" width="56" height="3" rx="1.5" fill="url(#accent)"/>
+  <g font-family="Consolas, 'Courier New', monospace" font-size="13" letter-spacing=".5">
+    <text x="66" y="260" fill="#9BB0C7">BUILDING</text>
+    <text x="66" y="284" fill="#E3EDF7">APIs · web apps · developer tools</text>
+    <text x="66" y="326" fill="#6F859D">JAVA   /   PYTHON   /   SOFTWARE</text>
+  </g>
+  <g transform="translate(1004 180)">
+    <circle r="105" fill="#0D1725" fill-opacity=".7" stroke="#30445D"/>
+    <circle r="85" fill="none" stroke="url(#accent)" stroke-opacity=".75" stroke-width="1.5" stroke-dasharray="3 8"/>
+    <circle r="65" fill="none" stroke="#52708E" stroke-opacity=".6"/>
+    <path d="M-123 0h35M88 0h35M0-123v35M0 88v35" stroke="#42D9FF" stroke-opacity=".65"/>
+    <path d="M-53-46h30v12M23 34h30v12" fill="none" stroke="#9C8CFF" stroke-opacity=".75" stroke-width="2"/>
+    <text y="15" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="43" font-weight="600" fill="#E8F3FF" letter-spacing="-4">AK</text>
+    <circle cx="-123" cy="0" r="3" fill="#42D9FF"/><circle cx="123" cy="0" r="3" fill="#9C8CFF"/>
+    <circle cx="0" cy="-123" r="3" fill="#42D9FF"/><circle cx="0" cy="123" r="3" fill="#9C8CFF"/>
+  </g>
+  <g font-family="Consolas, 'Courier New', monospace" font-size="11">
+    <text x="1215" y="333" text-anchor="end" fill="#7187A0">01 / LEARN  ·  02 / BUILD  ·  03 / REFINE</text>
+  </g>
+</svg>
