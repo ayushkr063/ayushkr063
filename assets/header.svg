@@ -1,33 +1,65 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="400" viewBox="0 0 1280 400" role="img" aria-labelledby="title desc">
   <title id="title">Ayush Kumar Seth</title>
-  <desc id="desc">Neon cyan and violet developer profile banner for a Java developer and computer science undergraduate.</desc>
+  <desc id="desc">Dark terminal-green profile banner with neon green circuit details for Java developer and CSE undergraduate Ayush Kumar Seth.</desc>
   <defs>
-    <linearGradient id="neon" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#22d3ee"/>
-      <stop offset=".55" stop-color="#8b5cf6"/>
-      <stop offset="1" stop-color="#39ff88"/>
+    <linearGradient id="bg" x2="1" y2="1">
+      <stop stop-color="#090d0a"/>
+      <stop offset="1" stop-color="#0e2116"/>
     </linearGradient>
-    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
-      <path d="M32 0H0V32" fill="none" stroke="#78eaff" stroke-opacity=".08" stroke-width="1"/>
+    <radialGradient id="glow">
+      <stop stop-color="#39ff88" stop-opacity=".16"/>
+      <stop offset="1" stop-color="#39ff88" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#39ff88" stroke-opacity=".055"/>
     </pattern>
-    <filter id="soft-glow" x="-30%" y="-30%" width="160%" height="160%">
-      <feGaussianBlur stdDeviation="5" result="blur"/>
-      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
-    </filter>
+    <linearGradient id="accent">
+      <stop stop-color="#39ff88"/>
+      <stop offset="1" stop-color="#a3e635"/>
+    </linearGradient>
   </defs>
-  <rect width="1200" height="340" rx="22" fill="#080d18"/>
-  <rect width="1200" height="340" rx="22" fill="url(#grid)"/>
-  <path d="M0 266H188L218 236H316M1200 74H1054L1020 108H950M0 300H122M1200 112H1116" fill="none" stroke="url(#neon)" stroke-opacity=".72" stroke-width="2"/>
-  <path d="M72 46h94l18 18h72M1128 292h-86l-20-20h-68" fill="none" stroke="#22d3ee" stroke-opacity=".48" stroke-width="1.5"/>
-  <circle cx="316" cy="236" r="4" fill="#39ff88"/>
-  <circle cx="950" cy="108" r="4" fill="#22d3ee"/>
-  <circle cx="238" cy="64" r="3" fill="#8b5cf6"/>
-  <circle cx="954" cy="272" r="3" fill="#39ff88"/>
-  <rect x="74" y="74" width="1052" height="192" rx="16" fill="#0b1220" fill-opacity=".82" stroke="#9deaff" stroke-opacity=".2"/>
-  <path d="M95 90v160M1105 90v160" stroke="url(#neon)" stroke-width="2" stroke-opacity=".7"/>
-  <text x="600" y="120" text-anchor="middle" fill="#39ff88" font-family="monospace" font-size="13" letter-spacing="4">DEVELOPER PROFILE  /  AYUSHKR063</text>
-  <text x="600" y="177" text-anchor="middle" fill="#f8fafc" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="700" letter-spacing="2">AYUSH KUMAR SETH</text>
-  <text x="600" y="214" text-anchor="middle" fill="#a5f3fc" font-family="monospace" font-size="17" letter-spacing="1">JAVA DEVELOPER  ·  CSE UNDERGRADUATE</text>
-  <text x="600" y="242" text-anchor="middle" fill="#a7b3c7" font-family="Arial, Helvetica, sans-serif" font-size="13">Sandip University  ·  Building practical software, one project at a time</text>
-  <path d="M440 255h320" stroke="url(#neon)" stroke-width="2" filter="url(#soft-glow)"/>
+  <rect x="1" y="1" width="1278" height="398" rx="22" fill="url(#bg)" stroke="#245535"/>
+  <rect x="1" y="1" width="1278" height="398" rx="22" fill="url(#grid)"/>
+  <ellipse cx="1050" cy="190" rx="280" ry="220" fill="url(#glow)"/>
+  <g font-family="Consolas, 'Courier New', monospace">
+    <circle cx="42" cy="31" r="5" fill="#39ff88"/>
+    <circle cx="61" cy="31" r="5" fill="#a3e635" opacity=".7"/>
+    <circle cx="80" cy="31" r="5" fill="#3b6849"/>
+    <text x="110" y="36" font-size="13" fill="#8ba996" letter-spacing="1">ayushkr063 / profile</text>
+    <text x="1194" y="38" font-size="22" fill="#39ff88">&lt;/&gt;</text>
+    <path d="M24 56H1256" stroke="#245535"/>
+    <text x="56" y="112" font-size="15" fill="#a3e635" letter-spacing="2">$ whoami</text>
+  </g>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <text x="52" y="180" font-size="51" font-weight="750" fill="#f0faf3" letter-spacing="-1.5">Ayush Kumar <tspan fill="#39ff88">Seth</tspan></text>
+    <text x="56" y="224" font-size="22" font-weight="600" fill="#d5e5da">Java Developer <tspan fill="#48825a">|</tspan> CSE Undergraduate</text>
+  </g>
+  <rect x="56" y="258" width="42" height="4" rx="2" fill="url(#accent)"/>
+  <text x="111" y="266" font-family="Consolas, 'Courier New', monospace" font-size="16" fill="#a5c3af" letter-spacing="1">Sandip University · 2024–2028</text>
+  <g transform="translate(900 102)" fill="none" stroke="#39ff88" stroke-width="1.5">
+    <path d="M0 82L23 30L78 5L126 21L151 66L133 116L87 147L34 130ZM0 82L61 69L78 5M23 30L61 69L126 21M61 69L151 66M61 69L87 147M34 130L61 69L133 116M0 82L34 130M23 30L133 116M78 5L87 147" stroke-opacity=".6"/>
+    <path d="M133 116C193 116 165 183 241 183M151 66C203 66 192 114 241 114M126 21C192 21 184 48 223 48" stroke-opacity=".45"/>
+    <g fill="#39ff88" stroke="none">
+      <circle cy="82" r="4"/><circle cx="23" cy="30" r="4"/><circle cx="78" cy="5" r="4"/><circle cx="126" cy="21" r="4"/><circle cx="151" cy="66" r="4"/><circle cx="133" cy="116" r="4"/><circle cx="87" cy="147" r="4"/><circle cx="34" cy="130" r="4"/>
+    </g>
+    <circle cx="61" cy="69" r="6" fill="#a3e635" stroke="none"/>
+    <g transform="translate(201 2) rotate(7)">
+      <rect width="105" height="80" rx="8" fill="#0b1610" stroke="#2a6c40"/>
+      <path d="M0 17H105" stroke="#2a6c40"/>
+      <path d="M13 31H44M13 44H72M13 57H56" stroke="#39ff88" stroke-width="3"/>
+      <path d="M51 31H70M63 57H86" stroke="#a3e635" stroke-width="3"/>
+    </g>
+    <g transform="translate(224 139) rotate(-7)">
+      <rect width="90" height="65" rx="8" fill="#0b1610" stroke="#2a6c40"/>
+      <path d="M13 19H46M13 32H71M13 45H54" stroke="#39ff88" stroke-width="3"/>
+      <path d="M54 19H75" stroke="#a3e635" stroke-width="3"/>
+    </g>
+  </g>
+  <g font-family="Consolas, 'Courier New', monospace" font-size="12">
+    <rect x="56" y="314" width="138" height="28" rx="14" fill="#112c1b" stroke="#245535"/>
+    <text x="77" y="333" fill="#a3e635">JAVA · PYTHON</text>
+    <rect x="208" y="314" width="184" height="28" rx="14" fill="#112c1b" stroke="#245535"/>
+    <text x="230" y="333" fill="#39ff88">SOFTWARE PROJECTS</text>
+    <text x="1230" y="366" text-anchor="end" fill="#60876d">01 / BUILD WITH CURIOSITY</text>
+  </g>
 </svg>
