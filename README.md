@@ -1,15 +1,10 @@
 <div align="center">
 
-<img src="./assets/header-profile.svg" width="100%" alt="Ayush Kumar Seth — computer science student and developer" />
+<img src="./assets/profile-banner-v2.svg" width="100%" alt="Ayush Kumar Seth — Computer Science student working with Java and Python" />
 
-<br />
+[GitHub](https://github.com/ayushkr063) &nbsp; · &nbsp; [LinkedIn](https://www.linkedin.com/in/ayush-kumar-seth)
 
-[![GitHub](https://img.shields.io/badge/GitHub-ayushkr063-43D8FF?style=for-the-badge&labelColor=101E30&logo=github&logoColor=43D8FF)](https://github.com/ayushkr063)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-43D8FF?style=for-the-badge&labelColor=101E30&logo=linkedin&logoColor=43D8FF)](https://www.linkedin.com/in/ayush-kumar-seth)
-
-**Computer Science student · Java & Python developer · Building practical software**
-
-[About](#about) &nbsp; · &nbsp; [Projects](#selected-projects) &nbsp; · &nbsp; [Toolkit](#toolkit) &nbsp; · &nbsp; [Journey](#experience--education) &nbsp; · &nbsp; [Stats](#github-at-a-glance)
+**Computer Science student building with Java and Python**
 
 </div>
 
@@ -17,73 +12,71 @@
 
 ## About
 
-Hey, I’m **Ayush Kumar Seth**, a Computer Science and Engineering student. I enjoy turning ideas into useful applications and learning how software systems fit together.
+I’m Ayush, a Computer Science student interested in backend and application development. I learn by building: from Java APIs and Python command-line tools to small web applications. I care about clear structure, useful features, and documenting how a project works.
 
-My projects span Java applications, Python tools, and web apps backed by relational and document databases. I’m strengthening my foundations in data structures, problem solving, and software development, with a focus on writing clear, dependable code.
+## Selected work
 
-> **Current focus:** growing as a well-rounded developer through hands-on projects and consistent practice.
+### [Bookstore Management API](https://github.com/ayushkr063/bookstore_management)
 
-## Selected projects
+A Java REST API for accounts, book discovery, and order workflows. Includes JWT authentication, MongoDB persistence, inventory checks, and OpenAPI documentation.
 
-| Project | Overview | Built with |
-| :--- | :--- | :--- |
-| [**Bookstore Management API**](https://github.com/ayushkr063/bookstore_management) | REST API for book catalog, authentication, and order workflows. | Java · Spring Boot · MongoDB |
-| [**MediCore Hospital Management**](https://github.com/ayushkr063/hospital-management) | Web app for patient records, search, and admission status management. | Python · Flask · MySQL |
-| [**Student Study Planner**](https://github.com/ayushkr063/-study-planner) | College planner for subjects, tasks, and study progress. | Python · Flask · MySQL |
-| [**Personal Productivity Suite**](https://github.com/ayushkr063/personal_productivity_suite) | Modular CLI with notes, calculator, timer, file organizer, converter, and backup tools. | Python · JSON · CSV |
-| [**CodSoft Java Internship Projects**](https://github.com/ayushkr063/CODSOFT_TASKS) | Number-guessing game, ATM interface, and quiz application. | Java · Java Swing · OOP |
+**Java 21** · **Spring Boot** · **Spring Security** · **MongoDB**
+
+### [Personal Productivity Suite](https://github.com/ayushkr063/personal_productivity_suite)
+
+A Python command-line toolkit for notes, calculations, timers, file organization, unit conversion, and backups. Uses the standard library and includes tests.
+
+**Python** · **CLI** · **JSON / CSV** · **pytest**
+
+### [Student Study Planner](https://github.com/ayushkr063/-study-planner)
+
+A Flask and MySQL web app for organizing subjects and study tasks, with account access, dashboards, and task management.
+
+**Python** · **Flask** · **MySQL** · **HTML / CSS / JavaScript**
+
+<details>
+<summary>More projects</summary>
+
+- [MediCore Hospital Management](https://github.com/ayushkr063/hospital-management) — Flask and MySQL application for patient records, search, and admission status.
+- [CodSoft Java exercises](https://github.com/ayushkr063/CODSOFT_TASKS) — number-guessing game, ATM interface, and quiz application developed during a Java internship.
+
+</details>
 
 ## Toolkit
 
 **Languages**  
-![Java](https://img.shields.io/badge/Java-101E30?style=flat-square&logo=openjdk&logoColor=43D8FF)
-![Python](https://img.shields.io/badge/Python-101E30?style=flat-square&logo=python&logoColor=43D8FF)
-![C — foundational](https://img.shields.io/badge/C%20(foundation)-101E30?style=flat-square&logo=c&logoColor=43D8FF)
+![Java](https://img.shields.io/badge/Java-101827?style=flat-square&logo=openjdk&logoColor=42D9FF)
+![Python](https://img.shields.io/badge/Python-101827?style=flat-square&logo=python&logoColor=42D9FF)
+![C%20(foundation)](https://img.shields.io/badge/C%20(foundation)-101827?style=flat-square&logo=c&logoColor=9C8CFF)
 
 **Frameworks & data**  
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-101E30?style=flat-square&logo=springboot&logoColor=43D8FF)
-![Flask](https://img.shields.io/badge/Flask-101E30?style=flat-square&logo=flask&logoColor=43D8FF)
-![MySQL](https://img.shields.io/badge/MySQL-101E30?style=flat-square&logo=mysql&logoColor=43D8FF)
-![MongoDB](https://img.shields.io/badge/MongoDB-101E30?style=flat-square&logo=mongodb&logoColor=43D8FF)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-101827?style=flat-square&logo=springboot&logoColor=42D9FF)
+![Flask](https://img.shields.io/badge/Flask-101827?style=flat-square&logo=flask&logoColor=9C8CFF)
+![MySQL](https://img.shields.io/badge/MySQL-101827?style=flat-square&logo=mysql&logoColor=9C8CFF)
+![MongoDB](https://img.shields.io/badge/MongoDB-101827?style=flat-square&logo=mongodb&logoColor=42D9FF)
 
 **Tools & practices**  
-Git · GitHub · VS Code · Object-oriented programming · Input validation · Exception handling · Debugging
-
-## Currently learning
-
-- Data structures and algorithms
-- Problem-solving patterns
-- Building and refining software projects
+Git · GitHub · VS Code · Object-oriented programming · Input validation · Debugging
 
 ## Experience & education
 
-### Java Development Intern · CodSoft
-*Virtual · September 2026 · Four weeks*
+**Java Development Intern · CodSoft**  
+*Virtual · September 2026 · Four weeks*  
+Built a number-guessing game, ATM interface, and quiz application using Java and Java Swing.
 
-- Built a number-guessing game, ATM interface, and quiz application using Java and Java Swing.
-- Practiced object-oriented design, input validation, exception handling, and GUI development.
+**B.Tech, Computer Science and Engineering** · 2024–2028
 
-### B.Tech · Computer Science and Engineering
+## Current focus
 
+Strengthening data structures and problem-solving fundamentals while building and refining practical software projects.
 
-## What I’m working toward
-
-I’m focused on becoming a stronger software developer by deepening my programming fundamentals, building practical applications, and exploring new technologies. I’m especially interested in software development with Java and Python.
-
-## GitHub at a glance
+## GitHub activity
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ayushkr063&show_icons=true&hide_border=true&bg_color=0D1117&title_color=43D8FF&icon_color=43D8FF&text_color=C9D1D9&rank_icon=github" alt="GitHub stats for Ayush Kumar Seth" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushkr063&layout=compact&hide_border=true&bg_color=0D1117&title_color=43D8FF&text_color=C9D1D9" alt="Most used programming languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ayushkr063&show_icons=true&hide_border=true&bg_color=0D1117&title_color=42D9FF&icon_color=9C8CFF&text_color=C9D1D9&rank_icon=github" alt="GitHub profile statistics" />
 
-</div>
-
-## Contribution activity
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/ayushkr063/ayushkr063/output/github-contribution-grid-snake.svg" width="100%" alt="Animated cyan snake moving through Ayush's GitHub contribution calendar" />
+<img src="https://raw.githubusercontent.com/ayushkr063/ayushkr063/output/github-contribution-grid-snake.svg" width="100%" alt="Contribution calendar animation generated by this repository's GitHub Action" />
 
 </div>
 
@@ -91,9 +84,6 @@ I’m focused on becoming a stronger software developer by deepening my programm
 
 <div align="center">
 
-**Let’s connect**  
 [GitHub](https://github.com/ayushkr063) &nbsp; · &nbsp; [LinkedIn](https://www.linkedin.com/in/ayush-kumar-seth)
-
-<sub>BUILD / TEST / IMPROVE</sub>
 
 </div>
