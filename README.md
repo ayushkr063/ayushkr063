@@ -1,44 +1,43 @@
 <div align="center">
 
-<img src="./assets/header.svg" width="100%" alt="Navy and cyan robotics-inspired banner for Ayush Kumar Seth, a Computer Science student focused on Java development and software projects" />
+<img src="./assets/header.svg" width="100%" alt="Navy and cyan robotics interface banner for Ayush Kumar Seth, a Computer Science student learning Java and software development" />
 
 [![GitHub](https://img.shields.io/badge/GitHub-ayushkr063-43D8FF?style=for-the-badge&labelColor=101E30&logo=github&logoColor=43D8FF)](https://github.com/ayushkr063)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-43D8FF?style=for-the-badge&labelColor=101E30&logo=linkedin&logoColor=43D8FF)](https://www.linkedin.com/in/ayush-kumar-seth)
 
-**Computer Science Student · Java Development · Practical Software Projects**
+**SOFTWARE DEVELOPMENT · JAVA · COMPUTER SCIENCE**
 
-[About](#about-me) &nbsp; / &nbsp; [Projects](#selected-projects) &nbsp; / &nbsp; [Stack](#technology-stack) &nbsp; / &nbsp; [Experience](#experience) &nbsp; / &nbsp; [Education](#education) &nbsp; / &nbsp; [Activity](#github-activity)
+[Profile](#profile) &nbsp; / &nbsp; [Projects](#projects) &nbsp; / &nbsp; [Technology](#technology) &nbsp; / &nbsp; [Experience](#experience) &nbsp; / &nbsp; [Education](#education)
 
 </div>
 
-## About me
+## Profile
 
-I’m a **Computer Science and Engineering undergraduate at Sandip University, Nashik**. I’m building my Java development foundations through practical projects and also work with Python.
+Computer Science and Engineering undergraduate at **Sandip University, Nashik**. I’m developing my software engineering foundations through hands-on Java and Python projects, with an interest in building useful, well-structured applications.
 
-**Interested in software development opportunities** where I can keep learning, contribute to a team, and build useful applications.
+I’m currently strengthening my Java, object-oriented programming, data structures, and debugging skills. I’m open to learning opportunities where I can contribute, take feedback, and grow through practical engineering work.
 
-```text
-$ cat current-focus.txt
-  Java and object-oriented programming
-  Data structures and problem-solving practice
-  Input validation, debugging, and exception handling
-  Building practical applications
-```
+> **Current development focus**
+> - Java fundamentals and object-oriented programming
+> - Data structures and problem-solving practice
+> - Input validation, debugging, and exception handling
+> - Building and improving practical applications
 
-## Selected projects
+## Projects
 
-### 01 / Personal Productivity Suite
+### Personal Productivity Suite
 
 A modular Python command-line application with a calculator, notes manager, timer and stopwatch, file organizer, unit converter, and backup tools.
 
-[View repository](https://github.com/ayushkr063/personal_productivity_suite) · `Python` `pytest` `JSON` `CSV`
+[**Explore the repository →**](https://github.com/ayushkr063/personal_productivity_suite)  
+`Python` `pytest` `JSON` `CSV`
 
-## Technology stack
+## Technology
 
-| Area | Technologies |
+| Category | Tools and technologies |
 | :--- | :--- |
 | **Languages** | Java · Python · C (foundational) |
-| **Application development** | Java Swing · Python CLI |
+| **Development** | Java Swing · Python CLI |
 | **Database** | MySQL |
 | **Tools** | Git · GitHub · VS Code |
 | **Testing** | JUnit · pytest |
@@ -46,28 +45,25 @@ A modular Python command-line application with a calculator, notes manager, time
 
 ## Experience
 
-**CodSoft — Java Development Intern (Virtual)**  
+**Java Development Intern (Virtual) · CodSoft**  
 *September 2026 · Four-week internship*
 
-- Built a number-guessing game, an ATM interface, and a timed quiz application using Java and Java Swing.
+- Developed a number-guessing game, ATM interface, and timed quiz application using Java and Java Swing.
 - Practiced object-oriented programming, input validation, exception handling, and GUI development.
 
 ## Education
 
-**Bachelor of Technology in Computer Science and Engineering**  
+**B.Tech in Computer Science and Engineering**  
 Sandip University, Nashik · 2024–2028
 
-## Learning and interests
+## Learning next
 
-I’m strengthening my data structures and problem-solving skills. I’m also interested in Java full-stack development, Python, databases, MERN, and practical AI/ML applications.
+I’m working on stronger data structures and problem-solving fundamentals. I’m also interested in Java full-stack development, databases, MERN, Python, and practical AI/ML applications.
 
-## GitHub activity
-
-My public repositories and contribution activity are available on my [GitHub profile](https://github.com/ayushkr063).
+---
 
 <div align="center">
 
-**Have an idea worth building?**  
-[Connect on LinkedIn](https://www.linkedin.com/in/ayush-kumar-seth)
+[GitHub profile](https://github.com/ayushkr063) &nbsp; · &nbsp; [Connect on LinkedIn](https://www.linkedin.com/in/ayush-kumar-seth)
 
 </div>
