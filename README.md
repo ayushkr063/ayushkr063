@@ -2,7 +2,8 @@
 
 <img src="./assets/profile-banner-v2.svg" width="100%" alt="Ayush Kumar Seth — Computer Science student working with Java and Python" />
 
-[GitHub](https://github.com/ayushkr063) &nbsp; · &nbsp; [LinkedIn](https://www.linkedin.com/in/ayush-kumar-seth)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-111827?style=for-the-badge&logo=github&logoColor=42D9FF)](https://github.com/ayushkr063)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-kumar-seth)
 
 **Computer Science student building with Java and Python**
 
