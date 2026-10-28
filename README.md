@@ -79,6 +79,14 @@ Strengthening data structures and problem-solving fundamentals while building an
 
 </div>
 
+## Contribution snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/ayushkr063/ayushkr063/output/github-contribution-grid-snake.svg" width="100%" alt="Animated contribution snake based on the GitHub contribution calendar" />
+
+</div>
+
 ---
 
 <div align="center">
